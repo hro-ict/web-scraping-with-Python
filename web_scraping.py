@@ -1,3 +1,6 @@
+#Author= Yasar Unlu
+#Disclaimer: I am not responsible for the use of this software for other non-educational purposes.
+
 import requests
 import easygui
 import webbrowser as wb
