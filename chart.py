@@ -1,5 +1,4 @@
 
-#https://www.delftstack.com/howto/matplotlib/how-to-set-the-figure-title-and-axes-labels-font-size-in-matplotlib/
 import matplotlib.pylab as plt
 import os
 parameters = {'ytick.labelsize': 25,
